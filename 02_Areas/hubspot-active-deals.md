@@ -46,4 +46,13 @@ Sourced from HubSpot CRM on 2026-05-11. Total open deals: 120+. Key active deals
 - Several large deals ($15M+) have been sitting in "In Progress" since January 2026 — these may need follow-up or re-qualification.
 - The SM Energy and Alco deals together represent over $60M in potential revenue.
 
-[[02_Areas/ironhub-company]] | [[01_Projects/2026-05-11_growing-ironhub-userbase]]
+## User License Deals (Active - Updated 2026-05-11)
+
+| Deal | Amount | Stage | Last Activity |
+|---|---|---|---|
+| NOVA CHEMICALS - USER License | $19,200 | Active | May 11, 2026 |
+| ATHABASCA - User License | $35,000 | Active | May 11, 2026 |
+
+*Last updated: 2026-05-11*
+
+[[02_Areas/ironhub-company]] | [[01_Projects/2026-05-11_growing-ironhub-userbase]] | [[00_Inbox/2026-05-11_daily-digest]]

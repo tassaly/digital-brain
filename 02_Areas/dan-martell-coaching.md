@@ -1,7 +1,7 @@
 ---
 title: Dan Martell Elite Coaching
 date: 2026-05-11
-status: unprocessed
+status: active
 tags: [coaching, dan-martell, growth]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Draft Article with Peter Evans
 date: 2026-05-11
-status: unprocessed
+status: active
 tags: [article, draft, peter-evans, recommerce, middle-east]
 ---
 

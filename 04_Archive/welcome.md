@@ -1,7 +1,7 @@
 ---
 title: Welcome to Your Digital Brain
 date: 2026-05-08
-status: unprocessed
+status: archived
 tags: [meta, inbox]
 ---
 

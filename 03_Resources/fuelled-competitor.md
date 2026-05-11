@@ -1,7 +1,7 @@
 ---
 title: Fuelled — Competitor Analysis
 date: 2026-05-11
-status: unprocessed
+status: active
 tags: [competitor, marketplace, fuelled, strategy]
 ---
 

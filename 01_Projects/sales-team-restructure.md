@@ -1,7 +1,7 @@
 ---
 title: Sales Team Restructure & Affiliates
 date: 2026-05-11
-status: unprocessed
+status: active
 tags: [sales, strategy, affiliates, team]
 ---
 
