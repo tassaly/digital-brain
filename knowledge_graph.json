@@ -1,0 +1,97 @@
+{
+  "nodes": {
+    "welcome": {
+      "title": "Welcome to Your Digital Brain",
+      "folder": "00_Inbox",
+      "tags": [
+        "meta",
+        "inbox"
+      ],
+      "status": "unprocessed"
+    },
+    "README": {
+      "title": "Archive",
+      "folder": "04_Archive",
+      "tags": [
+        "meta",
+        "para",
+        "archive"
+      ],
+      "status": "active"
+    }
+  },
+  "edges": [
+    {
+      "source": "welcome",
+      "target": "system_instruction"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    },
+    {
+      "source": "README",
+      "target": "README"
+    }
+  ],
+  "backlinks": {
+    "welcome": [],
+    "README": [
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README",
+      "README"
+    ],
+    "system_instruction": [
+      "welcome"
+    ]
+  }
+}

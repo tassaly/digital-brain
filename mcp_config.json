@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "digital-brain": {
+      "command": "python3",
+      "args": ["mcp_server.py"],
+      "cwd": "${workspaceFolder}/digital_brain",
+      "description": "Digital Brain — semantic search, note linking, inbox triage"
+    }
+  }
+}

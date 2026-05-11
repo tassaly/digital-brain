@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-05-08T17:56:20.551150+00:00",
+  "total_notes": 5,
+  "by_folder": {
+    "00_Inbox": [
+      "welcome"
+    ],
+    "01_Projects": [
+      "README"
+    ],
+    "02_Areas": [
+      "README"
+    ],
+    "03_Resources": [
+      "README"
+    ],
+    "04_Archive": [
+      "README"
+    ]
+  },
+  "notes": [
+    {
+      "id": "welcome",
+      "path": "00_Inbox/welcome.md",
+      "folder": "00_Inbox",
+      "title": "Welcome to Your Digital Brain",
+      "date": "2026-05-08",
+      "status": "unprocessed",
+      "tags": [
+        "meta",
+        "inbox"
+      ],
+      "source": "",
+      "links_to": [
+        "system_instruction"
+      ],
+      "hash": "815ec1ae",
+      "indexed_at": "2026-05-08T17:56:20.549775+00:00",
+      "preview": "# Welcome\n\nThis is your inbox. Drop raw notes, clippings, ideas, and half-formed thoughts here.\n\nThe `summarize_inbox()` MCP tool will analyze each file and recommend where it belongs in PARA.\n\n## What to put here\n- Meeting notes before they're categorized\n- Web clippings\n- Random ideas\n- Voice memo transcriptions\n\n[[system_instruction]]"
+    },
+    {
+      "id": "README",
+      "path": "01_Projects/README.md",
+      "folder": "01_Projects",
+      "title": "Projects",
+      "date": "2026-05-08",
+      "status": "active",
+      "tags": [
+        "meta",
+        "para",
+        "projects"
+      ],
+      "source": "",
+      "links_to": [
+        "02_Areas/README",
+        "03_Resources/README",
+        "04_Archive/README"
+      ],
+      "hash": "7d3fa0a7",
+      "indexed_at": "2026-05-08T17:56:20.550209+00:00",
+      "preview": "# Projects\n\nShort-horizon work with a clear **outcome** and **deadline**.\n\nA project is something you're actively working on right now that will be done at a specific point.\n\n## Examples\n- Launch v2 of product X by June\n- Write and publish article on topic Y\n- Complete online course Z\n\n## File convention\nEach project gets its own note: `YYYY-MM-DD_project-name.md`\n\n[[02_Areas/README]] | [[03_Resources/README]] | [[04_Archive/README]]"
+    },
+    {
+      "id": "README",
+      "path": "02_Areas/README.md",
+      "folder": "02_Areas",
+      "title": "Areas of Responsibility",
+      "date": "2026-05-08",
+      "status": "active",
+      "tags": [
+        "meta",
+        "para",
+        "areas"
+      ],
+      "source": "",
+      "links_to": [
+        "01_Projects/README",
+        "03_Resources/README",
+        "04_Archive/README"
+      ],
+      "hash": "d028fd9f",
+      "indexed_at": "2026-05-08T17:56:20.550549+00:00",
+      "preview": "# Areas\n\nLong-horizon commitments with **no end date** — things you maintain over time.\n\n## Examples\n- Health & Fitness\n- Finance & Investing\n- Career Development\n- Relationships\n- Home\n\n## File convention\nEach area gets a hub note: `area-name.md` with links to related projects and resources.\n\n[[01_Projects/README]] | [[03_Resources/README]] | [[04_Archive/README]]"
+    },
+    {
+      "id": "README",
+      "path": "03_Resources/README.md",
+      "folder": "03_Resources",
+      "title": "Resources",
+      "date": "2026-05-08",
+      "status": "active",
+      "tags": [
+        "meta",
+        "para",
+        "resources"
+      ],
+      "source": "",
+      "links_to": [
+        "01_Projects/README",
+        "02_Areas/README",
+        "04_Archive/README"
+      ],
+      "hash": "2cc3d196",
+      "indexed_at": "2026-05-08T17:56:20.550865+00:00",
+      "preview": "# Resources\n\nReference material on topics you're **interested in** — not necessarily tied to a project or area.\n\n## Examples\n- Book notes and highlights\n- Research papers\n- How-to guides\n- Collected quotes\n\n## File convention\nOrganize by topic subdirectory or tag. Use `source:` YAML field to track origin.\n\n[[01_Projects/README]] | [[02_Areas/README]] | [[04_Archive/README]]"
+    },
+    {
+      "id": "README",
+      "path": "04_Archive/README.md",
+      "folder": "04_Archive",
+      "title": "Archive",
+      "date": "2026-05-08",
+      "status": "active",
+      "tags": [
+        "meta",
+        "para",
+        "archive"
+      ],
+      "source": "",
+      "links_to": [
+        "01_Projects/README",
+        "02_Areas/README",
+        "03_Resources/README"
+      ],
+      "hash": "4b39c293",
+      "indexed_at": "2026-05-08T17:56:20.551145+00:00",
+      "preview": "# Archive\n\nCompleted, paused, or no-longer-relevant items from the other three categories.\n\nNothing is deleted — it's moved here. The indexer keeps it searchable.\n\n## What lands here\n- Finished projects\n- Deprecated areas\n- Outdated resources\n\n[[01_Projects/README]] | [[02_Areas/README]] | [[03_Resources/README]]"
+    }
+  ]
+}
