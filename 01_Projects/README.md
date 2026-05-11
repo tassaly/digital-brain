@@ -20,3 +20,7 @@ A project is something you're actively working on right now that will be done at
 Each project gets its own note: `YYYY-MM-DD_project-name.md`
 
 [[02_Areas/README]] | [[03_Resources/README]] | [[04_Archive/README]]
+
+[[ironhub-company]]
+
+[[ironhub-ceo]]
