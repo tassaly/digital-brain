@@ -1,6 +1,6 @@
 {
   "nodes": {
-    "welcome": {
+    "00_Inbox/welcome": {
       "title": "Welcome to Your Digital Brain",
       "folder": "00_Inbox",
       "tags": [
@@ -9,7 +9,37 @@
       ],
       "status": "unprocessed"
     },
-    "README": {
+    "01_Projects/README": {
+      "title": "Projects",
+      "folder": "01_Projects",
+      "tags": [
+        "meta",
+        "para",
+        "projects"
+      ],
+      "status": "active"
+    },
+    "02_Areas/README": {
+      "title": "Areas of Responsibility",
+      "folder": "02_Areas",
+      "tags": [
+        "meta",
+        "para",
+        "areas"
+      ],
+      "status": "active"
+    },
+    "03_Resources/README": {
+      "title": "Resources",
+      "folder": "03_Resources",
+      "tags": [
+        "meta",
+        "para",
+        "resources"
+      ],
+      "status": "active"
+    },
+    "04_Archive/README": {
       "title": "Archive",
       "folder": "04_Archive",
       "tags": [
@@ -22,76 +52,80 @@
   },
   "edges": [
     {
-      "source": "welcome",
+      "source": "00_Inbox/welcome",
       "target": "system_instruction"
     },
     {
-      "source": "README",
+      "source": "01_Projects/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "01_Projects/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "01_Projects/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "02_Areas/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "02_Areas/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "02_Areas/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "03_Resources/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "03_Resources/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "03_Resources/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "04_Archive/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "04_Archive/README",
       "target": "README"
     },
     {
-      "source": "README",
+      "source": "04_Archive/README",
       "target": "README"
     }
   ],
   "backlinks": {
-    "welcome": [],
-    "README": [
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README",
-      "README"
-    ],
+    "00_Inbox/welcome": [],
+    "01_Projects/README": [],
+    "02_Areas/README": [],
+    "03_Resources/README": [],
+    "04_Archive/README": [],
     "system_instruction": [
-      "welcome"
+      "00_Inbox/welcome"
+    ],
+    "README": [
+      "01_Projects/README",
+      "01_Projects/README",
+      "01_Projects/README",
+      "02_Areas/README",
+      "02_Areas/README",
+      "02_Areas/README",
+      "03_Resources/README",
+      "03_Resources/README",
+      "03_Resources/README",
+      "04_Archive/README",
+      "04_Archive/README",
+      "04_Archive/README"
     ]
   }
 }

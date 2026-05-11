@@ -29,7 +29,9 @@ FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 
 
 def file_id(path: Path) -> str:
-    return path.stem
+    # use folder/stem so README in different PARA dirs get unique IDs
+    folder = para_folder(path)
+    return f"{folder}/{path.stem}" if folder != "unknown" else path.stem
 
 
 def extract_frontmatter(text: str) -> tuple[dict, str]:
