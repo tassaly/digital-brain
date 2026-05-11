@@ -24,3 +24,7 @@ Each project gets its own note: `YYYY-MM-DD_project-name.md`
 [[ironhub-company]]
 
 [[ironhub-ceo]]
+
+[[2026-05-11_spare-parts-enrichment-tool]]
+
+[[2026-05-11_growing-ironhub-userbase]]
