@@ -53,6 +53,14 @@ Sourced from HubSpot CRM on 2026-05-11. Total open deals: 120+. Key active deals
 | NOVA CHEMICALS - USER License | $19,200 | Active | May 11, 2026 |
 | ATHABASCA - User License | $35,000 | Active | May 11, 2026 |
 
-*Last updated: 2026-05-11*
+## Deal Activity Update (2026-05-12)
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| ALEMAP - 48" 1440 Sour Separator - ONEOK Midstream | $200,000 | Appointment Scheduled | **Active** — moved to appointment scheduled |
+| ATHABASCA - USER LICENSE AGREEMENT | $35,000 | Active | Continued activity |
+| Inclusive - 30 MMSCFD Amine Plant - Tierney Equipment | $155,000 | Closed Won | Confirmed closed |
+
+*Last updated: 2026-05-12*
 
 [[02_Areas/ironhub-company]] | [[01_Projects/2026-05-11_growing-ironhub-userbase]] | [[00_Inbox/2026-05-11_daily-digest]]
