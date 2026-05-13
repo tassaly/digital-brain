@@ -1,14 +1,16 @@
 ---
 title: Draft Article with Peter Evans
 date: 2026-05-11
-status: active
+status: complete
 tags: [article, draft, peter-evans, recommerce, middle-east]
 ---
 
 # From War Damage to Rapid Reconstruction: How Digital Recommerce Platforms Can Overcome OEM Bottlenecks on Oil & Gas Equipment
 
 **Authors:** Peter C. Evans and Taylor Assaly
-**Status:** Draft
+**Status:** Final — Publishing May 21, 2026 on Substack
+**Substack Link:** https://platformprofessional.substack.com/p/d25be4db
+**Co-author Invite:** Pending Taylor's acceptance
 
 ## Summary
 The article discusses the severe damage to Middle East oil and gas infrastructure following the war with Iran (starting Feb 2026) and the challenges of rebuilding due to long lead times for new OEM equipment (up to 5 years). It argues that digital recommerce platforms (like IronHub) are the solution, as they can source surplus and used equipment 84-92% faster and 30-70% cheaper.
@@ -26,3 +28,5 @@ The article discusses the severe damage to Middle East oil and gas infrastructur
 - **Challenges to Overcome:** Limited visibility, lack of data standardization, and EPC adoption barriers (cultural preference for new equipment).
 
 *Note: The full draft is attached in the system as `MEOilandGasReconstruction.docx`.*
+
+[[00_Inbox/2026-05-13_daily-digest]]
