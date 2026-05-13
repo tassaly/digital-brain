@@ -1,17 +1,22 @@
 {
-  "generated_at": "2026-05-11T13:30:27.590051+00:00",
-  "total_notes": 5,
+  "generated_at": "2026-05-13T20:36:25.948776+00:00",
+  "total_notes": 10,
   "by_folder": {
     "00_Inbox": [
       "00_Inbox/welcome"
     ],
     "01_Projects": [
+      "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "01_Projects/2026-05-11_spare-parts-enrichment-tool",
       "01_Projects/README"
     ],
     "02_Areas": [
-      "02_Areas/README"
+      "02_Areas/README",
+      "02_Areas/ironhub-ceo",
+      "02_Areas/ironhub-company"
     ],
     "03_Resources": [
+      "03_Resources/2026-05-13_war-damage-to-reconstruction-evans",
       "03_Resources/README"
     ],
     "04_Archive": [
@@ -35,8 +40,59 @@
         "system_instruction"
       ],
       "hash": "815ec1ae",
-      "indexed_at": "2026-05-11T13:30:27.587852+00:00",
+      "indexed_at": "2026-05-13T20:36:25.937249+00:00",
       "preview": "# Welcome\n\nThis is your inbox. Drop raw notes, clippings, ideas, and half-formed thoughts here.\n\nThe `summarize_inbox()` MCP tool will analyze each file and recommend where it belongs in PARA.\n\n## What to put here\n- Meeting notes before they're categorized\n- Web clippings\n- Random ideas\n- Voice memo transcriptions\n\n[[system_instruction]]"
+    },
+    {
+      "id": "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "path": "01_Projects/2026-05-11_growing-ironhub-userbase.md",
+      "folder": "01_Projects",
+      "title": "Growing IronHub Userbase",
+      "date": "2026-05-11",
+      "status": "active",
+      "tags": [
+        "ironhub",
+        "projects",
+        "growth",
+        "sales",
+        "marketing"
+      ],
+      "source": "",
+      "links_to": [
+        "02_Areas/ironhub-company",
+        "02_Areas/ironhub-ceo",
+        "02_Areas/ironhub-company",
+        "02_Areas/ironhub-ceo",
+        "README"
+      ],
+      "hash": "abb45101",
+      "indexed_at": "2026-05-13T20:36:25.940955+00:00",
+      "preview": "# Growing IronHub Userbase to More Energy Companies\n\nThis project focuses on expanding the reach and adoption of the IronHub platform among energy companies, converting the recent surge in marketplace activity into tangible user growth and sales.\n\n## Project Overview\n- **Goal:** Expand the IronHub userbase by onboarding more energy companies and converting high marketing activity (e.g., the 170% growth in marketplace views seen in Q1 2026) into active platform users and sales.\n- **Current Status"
+    },
+    {
+      "id": "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "path": "01_Projects/2026-05-11_spare-parts-enrichment-tool.md",
+      "folder": "01_Projects",
+      "title": "Spare Parts Enrichment Tool",
+      "date": "2026-05-11",
+      "status": "active",
+      "tags": [
+        "ironhub",
+        "projects",
+        "ai",
+        "enrichment",
+        "spare-parts"
+      ],
+      "source": "",
+      "links_to": [
+        "02_Areas/ironhub-company",
+        "02_Areas/ironhub-company",
+        "02_Areas/ironhub-ceo",
+        "README"
+      ],
+      "hash": "97be9cf8",
+      "indexed_at": "2026-05-13T20:36:25.942401+00:00",
+      "preview": "# Spare Parts Enrichment Tool\n\nThis is the primary active project for IronHub. It involves developing an AI-powered tool to ingest, parse, and enrich large datasets of spare parts and surplus equipment.\n\n## Project Overview\n- **Goal:** Build a robust AI tool that can take raw data (e.g., bulk spreadsheet imports), parse it, and enrich it with standardized inventory options, providing a confidence level for the enriched data.\n- **Current Status:** In active development (as of Q2 2026, roughly hal"
     },
     {
       "id": "01_Projects/README",
@@ -54,11 +110,15 @@
       "links_to": [
         "02_Areas/README",
         "03_Resources/README",
-        "04_Archive/README"
+        "04_Archive/README",
+        "ironhub-company",
+        "ironhub-ceo",
+        "2026-05-11_spare-parts-enrichment-tool",
+        "2026-05-11_growing-ironhub-userbase"
       ],
-      "hash": "7d3fa0a7",
-      "indexed_at": "2026-05-11T13:30:27.588524+00:00",
-      "preview": "# Projects\n\nShort-horizon work with a clear **outcome** and **deadline**.\n\nA project is something you're actively working on right now that will be done at a specific point.\n\n## Examples\n- Launch v2 of product X by June\n- Write and publish article on topic Y\n- Complete online course Z\n\n## File convention\nEach project gets its own note: `YYYY-MM-DD_project-name.md`\n\n[[02_Areas/README]] | [[03_Resources/README]] | [[04_Archive/README]]"
+      "hash": "62fb6b33",
+      "indexed_at": "2026-05-13T20:36:25.943277+00:00",
+      "preview": "# Projects\n\nShort-horizon work with a clear **outcome** and **deadline**.\n\nA project is something you're actively working on right now that will be done at a specific point.\n\n## Examples\n- Launch v2 of product X by June\n- Write and publish article on topic Y\n- Complete online course Z\n\n## File convention\nEach project gets its own note: `YYYY-MM-DD_project-name.md`\n\n[[02_Areas/README]] | [[03_Resources/README]] | [[04_Archive/README]]\n\n[[ironhub-company]]\n\n[[ironhub-ceo]]\n\n[[2026-05-11_spare-part"
     },
     {
       "id": "02_Areas/README",
@@ -79,8 +139,73 @@
         "04_Archive/README"
       ],
       "hash": "d028fd9f",
-      "indexed_at": "2026-05-11T13:30:27.589132+00:00",
+      "indexed_at": "2026-05-13T20:36:25.945250+00:00",
       "preview": "# Areas\n\nLong-horizon commitments with **no end date** — things you maintain over time.\n\n## Examples\n- Health & Fitness\n- Finance & Investing\n- Career Development\n- Relationships\n- Home\n\n## File convention\nEach area gets a hub note: `area-name.md` with links to related projects and resources.\n\n[[01_Projects/README]] | [[03_Resources/README]] | [[04_Archive/README]]"
+    },
+    {
+      "id": "02_Areas/ironhub-ceo",
+      "path": "02_Areas/ironhub-ceo.md",
+      "folder": "02_Areas",
+      "title": "IronHub CEO Responsibilities",
+      "date": "2026-05-11",
+      "status": "active",
+      "tags": [
+        "ironhub",
+        "ceo",
+        "responsibilities"
+      ],
+      "source": "",
+      "links_to": [
+        "README"
+      ],
+      "hash": "4fcc0eb2",
+      "indexed_at": "2026-05-13T20:36:25.946122+00:00",
+      "preview": "# President & CEO of IronHub\n\nAs President and CEO of IronHub, Taylor Assaly is responsible for the overall strategic direction, growth, and operational success of the company. The core mission is to help energy companies best utilize their surplus equipment for capital efficiency and sustainability.\n\n## Core Responsibilities & Focus Areas\n\n### Strategic Leadership & Vision\n- Define and drive the company's transition from a traditional marketplace to an intelligent procurement platform powered b"
+    },
+    {
+      "id": "02_Areas/ironhub-company",
+      "path": "02_Areas/ironhub-company.md",
+      "folder": "02_Areas",
+      "title": "IronHub Company Context",
+      "date": "2026-05-11",
+      "status": "active",
+      "tags": [
+        "ironhub",
+        "company",
+        "context"
+      ],
+      "source": "",
+      "links_to": [
+        "README"
+      ],
+      "hash": "b44d9251",
+      "indexed_at": "2026-05-13T20:36:25.946849+00:00",
+      "preview": "# IronHub\n\nIronHub is an intelligent procurement platform powered by AI, designed to save energy companies time and capital by helping them best utilize their surplus equipment for capital efficiency and sustainability. It is not just a marketplace.\n\n## Core Mission & Value Proposition\n- Help energy companies find, evaluate, and source surplus equipment across the IronHub network and beyond.\n- Move beyond archaic filtering to allow for free text searches or analysis of uploaded project documents"
+    },
+    {
+      "id": "03_Resources/2026-05-13_war-damage-to-reconstruction-evans",
+      "path": "03_Resources/2026-05-13_war-damage-to-reconstruction-evans.md",
+      "folder": "03_Resources",
+      "title": "From War Damage to Rapid Reconstruction — Peter C. Evans",
+      "date": "2026-05-13",
+      "status": "active",
+      "tags": [
+        "ironhub",
+        "market-research",
+        "surplus-equipment",
+        "middle-east",
+        "reconstruction",
+        "oem",
+        "recommerce"
+      ],
+      "source": "PDF — Platform Professional by Peter C. Evans",
+      "links_to": [
+        "ironhub-company",
+        "ironhub-ceo"
+      ],
+      "hash": "5b8993f3",
+      "indexed_at": "2026-05-13T20:36:25.947459+00:00",
+      "preview": "# From War Damage to Rapid Reconstruction\n**How Digital Recommerce Platforms Can Overcome OEM Bottlenecks on Oil & Gas Equipment**\n*Peter C. Evans, May 13, 2026*\n\n## Why This Matters to IronHub\nThis report explicitly names IronHub as a proven model for surplus equipment recommerce, and makes the case that platforms like IronHub are the solution to a $34–58B reconstruction crisis in the Middle East. It is a powerful third-party validation of IronHub's value proposition and global expansion opport"
     },
     {
       "id": "03_Resources/README",
@@ -101,7 +226,7 @@
         "04_Archive/README"
       ],
       "hash": "2cc3d196",
-      "indexed_at": "2026-05-11T13:30:27.589714+00:00",
+      "indexed_at": "2026-05-13T20:36:25.947926+00:00",
       "preview": "# Resources\n\nReference material on topics you're **interested in** — not necessarily tied to a project or area.\n\n## Examples\n- Book notes and highlights\n- Research papers\n- How-to guides\n- Collected quotes\n\n## File convention\nOrganize by topic subdirectory or tag. Use `source:` YAML field to track origin.\n\n[[01_Projects/README]] | [[02_Areas/README]] | [[04_Archive/README]]"
     },
     {
@@ -123,7 +248,7 @@
         "03_Resources/README"
       ],
       "hash": "4b39c293",
-      "indexed_at": "2026-05-11T13:30:27.590046+00:00",
+      "indexed_at": "2026-05-13T20:36:25.948770+00:00",
       "preview": "# Archive\n\nCompleted, paused, or no-longer-relevant items from the other three categories.\n\nNothing is deleted — it's moved here. The indexer keeps it searchable.\n\n## What lands here\n- Finished projects\n- Deprecated areas\n- Outdated resources\n\n[[01_Projects/README]] | [[02_Areas/README]] | [[03_Resources/README]]"
     }
   ]

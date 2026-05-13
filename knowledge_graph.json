@@ -9,6 +9,30 @@
       ],
       "status": "unprocessed"
     },
+    "01_Projects/2026-05-11_growing-ironhub-userbase": {
+      "title": "Growing IronHub Userbase",
+      "folder": "01_Projects",
+      "tags": [
+        "ironhub",
+        "projects",
+        "growth",
+        "sales",
+        "marketing"
+      ],
+      "status": "active"
+    },
+    "01_Projects/2026-05-11_spare-parts-enrichment-tool": {
+      "title": "Spare Parts Enrichment Tool",
+      "folder": "01_Projects",
+      "tags": [
+        "ironhub",
+        "projects",
+        "ai",
+        "enrichment",
+        "spare-parts"
+      ],
+      "status": "active"
+    },
     "01_Projects/README": {
       "title": "Projects",
       "folder": "01_Projects",
@@ -26,6 +50,40 @@
         "meta",
         "para",
         "areas"
+      ],
+      "status": "active"
+    },
+    "02_Areas/ironhub-ceo": {
+      "title": "IronHub CEO Responsibilities",
+      "folder": "02_Areas",
+      "tags": [
+        "ironhub",
+        "ceo",
+        "responsibilities"
+      ],
+      "status": "active"
+    },
+    "02_Areas/ironhub-company": {
+      "title": "IronHub Company Context",
+      "folder": "02_Areas",
+      "tags": [
+        "ironhub",
+        "company",
+        "context"
+      ],
+      "status": "active"
+    },
+    "03_Resources/2026-05-13_war-damage-to-reconstruction-evans": {
+      "title": "From War Damage to Rapid Reconstruction — Peter C. Evans",
+      "folder": "03_Resources",
+      "tags": [
+        "ironhub",
+        "market-research",
+        "surplus-equipment",
+        "middle-east",
+        "reconstruction",
+        "oem",
+        "recommerce"
       ],
       "status": "active"
     },
@@ -56,7 +114,39 @@
       "target": "system_instruction"
     },
     {
-      "source": "01_Projects/README",
+      "source": "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "target": "ironhub-company"
+    },
+    {
+      "source": "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "target": "ironhub-ceo"
+    },
+    {
+      "source": "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "target": "ironhub-company"
+    },
+    {
+      "source": "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "target": "ironhub-ceo"
+    },
+    {
+      "source": "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "target": "README"
+    },
+    {
+      "source": "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "target": "ironhub-company"
+    },
+    {
+      "source": "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "target": "ironhub-company"
+    },
+    {
+      "source": "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "target": "ironhub-ceo"
+    },
+    {
+      "source": "01_Projects/2026-05-11_spare-parts-enrichment-tool",
       "target": "README"
     },
     {
@@ -66,6 +156,26 @@
     {
       "source": "01_Projects/README",
       "target": "README"
+    },
+    {
+      "source": "01_Projects/README",
+      "target": "README"
+    },
+    {
+      "source": "01_Projects/README",
+      "target": "ironhub-company"
+    },
+    {
+      "source": "01_Projects/README",
+      "target": "ironhub-ceo"
+    },
+    {
+      "source": "01_Projects/README",
+      "target": "2026-05-11_spare-parts-enrichment-tool"
+    },
+    {
+      "source": "01_Projects/README",
+      "target": "2026-05-11_growing-ironhub-userbase"
     },
     {
       "source": "02_Areas/README",
@@ -78,6 +188,22 @@
     {
       "source": "02_Areas/README",
       "target": "README"
+    },
+    {
+      "source": "02_Areas/ironhub-ceo",
+      "target": "README"
+    },
+    {
+      "source": "02_Areas/ironhub-company",
+      "target": "README"
+    },
+    {
+      "source": "03_Resources/2026-05-13_war-damage-to-reconstruction-evans",
+      "target": "ironhub-company"
+    },
+    {
+      "source": "03_Resources/2026-05-13_war-damage-to-reconstruction-evans",
+      "target": "ironhub-ceo"
     },
     {
       "source": "03_Resources/README",
@@ -106,26 +232,56 @@
   ],
   "backlinks": {
     "00_Inbox/welcome": [],
+    "01_Projects/2026-05-11_growing-ironhub-userbase": [],
+    "01_Projects/2026-05-11_spare-parts-enrichment-tool": [],
     "01_Projects/README": [],
     "02_Areas/README": [],
+    "02_Areas/ironhub-ceo": [],
+    "02_Areas/ironhub-company": [],
+    "03_Resources/2026-05-13_war-damage-to-reconstruction-evans": [],
     "03_Resources/README": [],
     "04_Archive/README": [],
     "system_instruction": [
       "00_Inbox/welcome"
     ],
+    "ironhub-company": [
+      "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "01_Projects/README",
+      "03_Resources/2026-05-13_war-damage-to-reconstruction-evans"
+    ],
+    "ironhub-ceo": [
+      "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "01_Projects/2026-05-11_spare-parts-enrichment-tool",
+      "01_Projects/README",
+      "03_Resources/2026-05-13_war-damage-to-reconstruction-evans"
+    ],
     "README": [
+      "01_Projects/2026-05-11_growing-ironhub-userbase",
+      "01_Projects/2026-05-11_spare-parts-enrichment-tool",
       "01_Projects/README",
       "01_Projects/README",
       "01_Projects/README",
       "02_Areas/README",
       "02_Areas/README",
       "02_Areas/README",
+      "02_Areas/ironhub-ceo",
+      "02_Areas/ironhub-company",
       "03_Resources/README",
       "03_Resources/README",
       "03_Resources/README",
       "04_Archive/README",
       "04_Archive/README",
       "04_Archive/README"
+    ],
+    "2026-05-11_spare-parts-enrichment-tool": [
+      "01_Projects/README"
+    ],
+    "2026-05-11_growing-ironhub-userbase": [
+      "01_Projects/README"
     ]
   }
 }
