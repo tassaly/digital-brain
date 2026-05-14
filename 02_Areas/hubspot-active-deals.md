@@ -61,6 +61,22 @@ Sourced from HubSpot CRM on 2026-05-11. Total open deals: 120+. Key active deals
 | ATHABASCA - USER LICENSE AGREEMENT | $35,000 | Active | Continued activity |
 | Inclusive - 30 MMSCFD Amine Plant - Tierney Equipment | $155,000 | Closed Won | Confirmed closed |
 
-*Last updated: 2026-05-12*
+## Deal Activity Update (2026-05-14)
+
+Data pulled via HubSpot Direct API (PAT fallback — MCP OAuth expired).
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| ASSK - 96" FWKO - Tierney | $110,000 | Appointment Scheduled | **Active** — new appointment set |
+| ATHABASCA - USER LICENSE AGREEMENT | $35,000 | Active | Continued activity |
+| Enbridge - Titan 250 Turbine Compressor - Crusader JV | $3,550,000 | Closed Won | Large win confirmed |
+| Enbridge - Twin Cat G3512A Generators - Crusader | $1,215,000 | Closed Won | Confirmed closed |
+| Enbridge - 475 kW Generator - Manning Power | $20,766 | Closed Won | Confirmed closed |
+| Enbridge - Siscorp Structures - Imperatore Crane | $950,000 | Closed Lost | Lost |
+| Enbridge - Gas Manifolds - NRI | $58,570 | Closed Lost | Lost |
+| Enbridge - 16 and 20" Plug Valves - Energy Valve | $42,645 | Closed Lost | Lost |
+| Enbridge - Titan 250 Turbine Compressor (Turbine only) | $3,625,000 | Closed Lost | Lost |
+
+*Last updated: 2026-05-14*
 
 [[02_Areas/ironhub-company]] | [[01_Projects/2026-05-11_growing-ironhub-userbase]] | [[00_Inbox/2026-05-11_daily-digest]]

@@ -73,6 +73,7 @@ IronHub is a Calgary-based technology and services company that operates as an i
 | Gmail MCP | Taylor's email — business threads, leads, follow-ups |
 | Google Calendar MCP | Meetings, events, calls |
 | HubSpot MCP | 120+ active deals, contacts, companies |
+| HubSpot Direct API | PAT: `pat-na1-307cc57c-fd1e-4f37-8d0a-fd3efcd4d9e2` — use as fallback when MCP OAuth expires. Base URL: `https://api.hubapi.com` |
 | Google Drive | `IronHub Master` folder — all company documents, client folders, templates |
 
 ---
