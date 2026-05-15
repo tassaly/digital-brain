@@ -77,6 +77,22 @@ Data pulled via HubSpot Direct API (PAT fallback — MCP OAuth expired).
 | Enbridge - 16 and 20" Plug Valves - Energy Valve | $42,645 | Closed Lost | Lost |
 | Enbridge - Titan 250 Turbine Compressor (Turbine only) | $3,625,000 | Closed Lost | Lost |
 
-*Last updated: 2026-05-14*
+## Deal Activity Update (2026-05-15)
+
+Heavy ASSK batch activity today — mix of historical deal closures and new wins.
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| ASSK Inc - ALCO Condensate Stabilizer (Petrus Resources) | $130,000 | Closed Won | Significant win |
+| Assk Inc - 912 Weatherford Pump Jack - West Lake Energy | $80,000 | Closed Won | Confirmed |
+| Commission - 456 Jack - Assk/Calroc | $36,500 | Closed Won | Commission |
+| ASSK - Pump Jack - Minc Holdings | $47,000 | Closed Won | Confirmed |
+| ASSK - 68 hp Arrow Screw Compressor - Astara | $15,500 | Closed Won | Confirmed |
+| Assk - 54 kW GM Generator - Sproutli | $20,000 | Closed Won | Confirmed |
+| ASSK - 2 50bbl Tanks - Bond Projects | $3,000 | Closed Won | Confirmed |
+| Obsidian Engineering - MCC Package - Athabasca | $75,000 | Closed Lost | Lost |
+| ASSK - 125 HPO CP PXT Compressor - Marathon | $70,000 | Closed Lost | Lost |
+
+*Last updated: 2026-05-15*
 
 [[02_Areas/ironhub-company]] | [[01_Projects/2026-05-11_growing-ironhub-userbase]] | [[00_Inbox/2026-05-11_daily-digest]]
