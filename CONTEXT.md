@@ -28,8 +28,9 @@ IronHub is a Calgary-based technology and services company that operates as an i
 
 - **GitHub repo:** https://github.com/tassaly/digital-brain (private)
 - **GitHub username:** tassaly
-- **PAT:** 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
-- **Clone command:** `git clone https://tassaly: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@github.com/tassaly/digital-brain.git`
+- **PAT:** SEE_MANUS_SESSION
+- **Clone command:** `git clone https://tassaly:<PAT>@github.com/tassaly/digital-brain.git`
+- **Note:** PAT is stored securely in the Manus session environment. Do not commit PAT to this file.
 
 ---
 
