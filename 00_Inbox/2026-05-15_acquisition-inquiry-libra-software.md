@@ -26,4 +26,7 @@ This is a software acquisition group, not a strategic buyer from the energy sect
 - Do they have energy sector expertise or is this purely a software bet?
 - What would happen to the IronHub team and mission post-acquisition?
 
-[[02_Areas/ironhub-company]] | [[02_Areas/ironhub-ceo]] | [[00_Inbox/2026-05-15_daily-digest]]
+## Update (May 17)
+Taylor replied and engaged with the inquiry, referencing Constellation Software's track record as a benchmark for niche vertical software acquirers. Conversation is now active.
+
+[[02_Areas/ironhub-company]] | [[02_Areas/ironhub-ceo]] | [[00_Inbox/2026-05-15_daily-digest]] | [[00_Inbox/2026-05-18_daily-digest]]
