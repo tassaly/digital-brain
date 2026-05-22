@@ -1,0 +1,100 @@
+---
+title: Daily Digest — May 22, 2026
+date: 2026-05-22
+status: active
+tags: [digest, daily, email, hubspot, gemini-notes]
+---
+
+# Daily Digest — May 22, 2026
+
+Linked: [[ironhub-company]] | [[ironhub-ceo]] | [[hubspot-active-deals]] | [[2026-05-19_ai-enrichment-module]] | [[sales-team-restructure]]
+
+---
+
+## Gemini Meeting Notes
+
+### Weekly Dev Update — May 21, 2026
+**Auto-captured from Gemini Notes email**
+
+**Summary:** Meeting discussions centred on AI integration improvements, mobile workflow optimization, and implementing affiliate program infrastructure. Key topics included enrichment tool performance tuning, mobile app UX improvements for field cataloguers, and the technical architecture needed to support the affiliate commission tracking system.
+
+**Key topics discussed:**
+- AI enrichment tool: performance tuning post-delivery, handling edge cases for niche/custom OEM parts
+- Mobile workflow: UX improvements for field cataloguers (Suncor Mildred Lake use case)
+- Affiliate program infrastructure: commission tracking system architecture discussion
+- Mildred Lake/Aurora project scope — Ben (Suncor) requested cost arrangement clarification; Ryan DeJong asked Taylor to connect with Artem on their side
+
+**Attendees:** Taylor Assaly, Micro Engineering team (Ahmed Abdelwahab, Soha Mansour, Gurleen Multani)
+**Date:** May 21, 2026, 11:43 AM MDT
+**Google Doc:** https://docs.google.com/document/d/1Q-w9iLz16Xe2xNW5_ORaGehcsi5KjKYNBW9guCOv6mo/edit
+
+---
+
+## Email Highlights (May 21–22)
+
+### High Priority
+
+**Paramount — Bill of Sale (2nd Request)**
+Richard Connolly (Paramount Resources) sent a 2nd request for Taylor and Mavis to sign the Bill of Sale for a Pump Package (Transaction 1 Pump Package, May 2026). Attachments include the Surplus Equipment Sale Approval Form and the Bill of Sale. Requires action from Taylor/Mavis.
+
+**Suncor — Mildred Lake Refractory Anchors**
+Ryan DeJong flagged 25 skids of refractory anchors at Mildred Lake — Suncor team wants to scrap but Ryan suggested IronHub attempt to sell first. Passed to Mavis. Potential listing opportunity.
+
+**Suncor — Mildred Lake/Aurora Project Scope**
+Ben (Suncor) requested cost arrangement clarification. Ryan asked Taylor to connect with Artem (Suncor side) to hash out the cost arrangement. Mathieu is also looped in. Active project scope discussion.
+
+**Grassland Energy — 24" Test Separator (Inbound)**
+Lance Chorney (Grassland Energy) accidentally forwarded to IronHub — 6 identical 24" vertical test separators, new surplus, never in service. Integrity document attached. Taylor forwarded to Mavis to follow up. Potential seller acquisition.
+
+**MRO Surplus — VB Industrial Supply Outreach**
+Taylor reached out to Dustin at VB Industrial Supply about a large volume of industrial MRO spare parts (PLCs, drives, valves, motors, instrumentation) sitting in a warehouse needing a buyer. Mavis and Rochelle CC'd.
+
+**IronHub Inquiry — Yangarra Resources (Adam Latos)**
+Inbound price inquiry on a listing. Passed to team.
+
+**IronHub Inquiry — Xylem Flygt NP 3127 HT Submersible Pump (IH-62874)**
+Inbound inquiry on listing IH-62874. Forwarded to team.
+
+**IronHub Inquiry Form — Morgan (Talk With Us)**
+Morgan submitted the Talk With Us form. Taylor responded but Adobe link blocked by spam filter. Asked Morgan to send another way.
+
+**Caterpillar Parts Social Post**
+Jen Schultz (Material Insight) sent a Caterpillar parts social post for review. Taylor approved.
+
+**Warehouse Auction Campaign — Live May 21**
+Jen confirmed the auction email campaign went out just after 9 AM May 21. Social posts live. Taylor confirmed social posts look great.
+
+**Surplus Record Invoice — May 20, 2026**
+Monthly invoice received from Surplus Record for advertising.
+
+**Ryan DeJong — Days Off 2026**
+Ryan submitted his days off schedule before leaving. Taylor acknowledged.
+
+**Dan Martell Coaching — Personal Outreach**
+Dan Martell sent a personal email: "I'm looking for a few entrepreneurs I can turn into proof of what's possible." Likely a coaching/community engagement prompt. Linked to [[dan-martell-coaching]].
+
+---
+
+## HubSpot Activity (May 21–22)
+
+**Paramount deals with recent activity (May 21):**
+
+| Deal | Stage | Amount | Last Modified |
+|---|---|---|---|
+| Paramount - Pump Package - Logan Energy | Closed Lost | $50,000 | May 21 |
+| Paramount - Separator - Logan | Closed Lost | $15,000 | May 21 |
+| Paramount - Triplex 2, FKO - Logan | Closed Won | $130,000 | May 21 |
+| Paramount - Triplex Pumps (5) - Crusader JV | Closed Lost | $250,000 | May 21 |
+| Paramount - 144" Sep - FICOTEQ | Active (8314172) | $80,000 | May 20 |
+
+**Note:** Paramount - Pump Package Bill of Sale is unsigned (2nd request sent May 22). The Pump Package deal ($50K) is now Closed Lost in HubSpot — the BOS dispute may be the reason.
+
+---
+
+## Calendar
+
+Google Calendar connector continues to return historical events only (pre-2026). The Weekly Dev Update on May 21 was captured via Gemini Notes email instead.
+
+---
+
+*Auto-generated by Manus Intelligence Layer | Pull repo to sync locally*
