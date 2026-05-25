@@ -96,3 +96,17 @@ Heavy ASSK batch activity today — mix of historical deal closures and new wins
 *Last updated: 2026-05-15*
 
 [[02_Areas/ironhub-company]] | [[01_Projects/2026-05-11_growing-ironhub-userbase]] | [[00_Inbox/2026-05-11_daily-digest]]
+
+## Deal Activity Update (2026-05-22 to 2026-05-25)
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| ATHABASCA - USER LICENSE AGREEMENT | $35,000 | `8314168` (Proposal Sent) | Modified May 22 — proposal stage active |
+| NOVA CHEMICALS - USER LICENSE AGREEMENT | $19,200 | `8314172` (Active) | Onboarding in progress with Mathieu |
+
+**Pre-deal opportunities (not yet in HubSpot):**
+- **Harvest Energy / Roughneck Integration** — Alex Vasiliev + Barry Mak (IT/IS) following up on data integration. See [[2026-05-25_harvest-energy-roughneck-integration]]
+- **CNOOC Balzac Plant Cataloging** — Mavis flagged new cataloging opportunity. Details pending.
+- **Libra Software Acquisition** — Introduction call scheduled with Umair Khan. See [[2026-05-25_libra-software-acquisition-call]]
+
+*Last updated: 2026-05-25*
