@@ -110,3 +110,14 @@ Heavy ASSK batch activity today — mix of historical deal closures and new wins
 - **Libra Software Acquisition** — Introduction call scheduled with Umair Khan. See [[2026-05-25_libra-software-acquisition-call]]
 
 *Last updated: 2026-05-25*
+
+## Deal Activity Update (2026-05-26)
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| Paramount - Kaybob/Fox Creek - JUNE | TBD | `1367457605` (In Progress) | Modified May 26 — Jeff Heck confirmed as IH rep, starting June 8 |
+| Vermilion Energy - 30" 1440psi Sour Separator - Saturn Oil & Gas | $55,000 | Closed Won | Closed May 21 |
+| Vermilion Energy - (4) 1,000bbl Tanks - ASSK | $103,000 | Closed Won | Closed May 21 |
+| Vermilion - Estevan Pipe - Multiple | $370,000 | Appointment Scheduled | Active — Vermilion sold $415M SK/MB assets to Allied Energy II Corp (May 26) — surplus equipment opportunity |
+
+*Last updated: 2026-05-26*
