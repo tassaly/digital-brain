@@ -121,3 +121,18 @@ Heavy ASSK batch activity today — mix of historical deal closures and new wins
 | Vermilion - Estevan Pipe - Multiple | $370,000 | Appointment Scheduled | Active — Vermilion sold $415M SK/MB assets to Allied Energy II Corp (May 26) — surplus equipment opportunity |
 
 *Last updated: 2026-05-26*
+
+## Deal Activity Update (2026-05-27)
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| Cenovus - (7) Containment Trays - KUDU | $3,500 | In Progress | Modified May 26 |
+| Cenovus - Bulk Tanks - Mohr Management | $15,000 | In Progress | Modified May 25 |
+| Cenovus - (3) Spyder Cranes - Fifty One Ventures | $85,000 | Closed Won | Modified May 25 |
+| Cenovus - Bulk Tanks (25) - Calroc | $21,000 | Closed Won | Calroc payment received May 26 |
+| Cenovus - Kobota Vehicle - S Myshak | $1,000 | Closed Won | Modified May 25 |
+| Cenovus - (4) 1000 bbl Tanks - 101236331 SK Ltd. | $12,000 | Closed Won | Modified May 25 |
+
+*Note: 178 total Cenovus deals in HubSpot. Darcy Van Aert (Cenovus) sent a Teams demo invite May 27 — new contact, platform demo requested.*
+
+*Last updated: 2026-05-27*

@@ -1,0 +1,93 @@
+---
+title: Daily Digest — May 27, 2026
+date: 2026-05-27
+status: active
+tags: [digest, daily, email, hubspot, cenovus, bsg-engineering, delegate-access, cnooc, athabasca, ibm, calroc]
+---
+
+# Daily Digest — May 27, 2026
+
+Linked: [[ironhub-company]] | [[ironhub-ceo]] | [[hubspot-active-deals]] | [[2026-05-26_ibm-cenovus-meeting]] | [[2026-05-19_cenovus-ai-enrichment-engagement]] | [[2026-05-19_ai-enrichment-module]]
+
+---
+
+## Gemini Meeting Notes
+
+No new Gemini auto-notes detected for May 27.
+
+---
+
+## Email Highlights (May 26–27)
+
+### High Priority — Strategic
+
+**BSG Engineering — Delegate Access Activated (May 27)**
+Taylor sent a delegate access invitation to Nèeky Noorali at BSG Engineering (`nnoorali@bsgengineering.com`) — granting visibility into Cenovus, Suncor, Paramount, and Vermilion internal inventory. The first email bounced (address not found), and a follow-up was sent. This is a new use of the delegate access model — engineering firms getting visibility into client surplus inventory is a key IronHub value proposition. New note created: [[2026-05-27_bsg-engineering-delegate-access]].
+
+**Cenovus Demo — Darcy Van Aert (May 27)**
+Darcy Van Aert (Cenovus) sent a Microsoft Teams meeting invite for an IronHub demo. This is a new Cenovus contact and a direct platform demo request — likely tied to the SSO/SAML onboarding and the IBM joint use case conversation. Linked to [[2026-05-26_ibm-cenovus-meeting]].
+
+**Working Capital & Financial Close-Out — Arie Prins (May 26)**
+Arie sent Taylor a document for discussion re: working capital and close-out of financial statements. Several accruals appear higher than expected. Taylor and Arie to walk through at their next meeting. Linked to IronHub financials (Achen Henderson portal).
+
+**US Buyers — Customs/Tariff Advice (May 26)**
+Taylor is managing a thread about US buyers and customs/tariff advice. Mavis is handling. Relevant as IronHub expands cross-border transactions.
+
+### Operations & Sales
+
+**Calroc — Payment Received for Transaction 1103 (May 26)**
+Rochelle confirmed Calroc sent payment for transaction 1103. No invoice yet from Cenovus for this deal. Cenovus - Bulk Tanks (25) - Calroc ($21K) is confirmed Closed Won in HubSpot.
+
+**CNOOC Balzac Cataloguing — 3406 CAT Generator Found (May 25–26)**
+Mavis flagged a 3406 CAT generator on site at CNOOC Balzac — approximately 15 years old, in a 20' x 40' building, shut in but still running power. Taylor acknowledged. New note created: [[2026-05-27_cnooc-balzac-cataloguing]].
+
+**Athabasca — Neil McLaren — Treaters Confirmed (May 26)**
+Neil McLaren (Athabasca) confirmed access to treaters. Mathieu to set up site contact and determine access requirements. Linked to [[2026-05-25_harvest-energy-roughneck-integration]] (same Athabasca relationship).
+
+**Inbound Inquiry — 36" 600psi Sour Vertical Separator (IH-42104) (May 27)**
+New inbound inquiry for 4 available 36" 600psi Sour Vertical Separators. Assigned to Taylor and Ray.
+
+**Inbound Inquiry — Joule Thomson System (IH-50647) (May 26)**
+Charles Scott inquired about the JT Plant — requesting plant capacity and price. Assigned to team.
+
+**Inbound Inquiry — 400 bbl Frac Bins (IH-61836) (May 26)**
+New inbound inquiry assigned to team.
+
+**Post-Cataloging Follow-Up (May 26)**
+Mavis following up on a post-cataloging item. Mathieu coordinating.
+
+**HubSpot Workflow Automation — Rochelle (May 26)**
+Rochelle and Mavis meeting at 1pm re: HubSpot workflow automation. Internal ops improvement.
+
+**Radwell International — MRO Feedback (May 26)**
+Jeremy Zimmerman (Radwell) responded to Taylor's MRO outreach — provided feedback on the opportunity. Taylor acknowledged and offered to send more MRO/electrical and control-focused items.
+
+**InterGen — Bootstrap & Burn Rate Stampede Party (May 26)**
+InterGen event invite. Social/networking — not a business action item.
+
+---
+
+## HubSpot Activity (May 26–27)
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| Cenovus - (7) Containment Trays - KUDU | $3,500 | `10268045` (In Progress) | Modified May 26 |
+| Cenovus - Bulk Tanks - Mohr Management | $15,000 | `8314916` (In Progress) | Modified May 25 |
+| Cenovus - (3) Spyder Cranes - Fifty One Ventures | $85,000 | Closed Won | Modified May 25 |
+| Cenovus - Bulk Tanks (25) - Calroc | $21,000 | Closed Won | Calroc payment received May 26 |
+| Cenovus - Kobota Vehicle - S Myshak | $1,000 | Closed Won | Modified May 25 |
+| Cenovus - (4) 1000 bbl Tanks - 101236331 SK Ltd. | $12,000 | Closed Won | Modified May 25 |
+
+*178 total Cenovus deals in HubSpot — platform is deeply embedded with this client.*
+
+---
+
+## New Notes Created This Digest
+
+- `2026-05-27_daily-digest.md` (this file)
+- `2026-05-27_bsg-engineering-delegate-access.md` — Delegate access model expansion to engineering firms
+- `2026-05-27_cnooc-balzac-cataloguing.md` — CNOOC Balzac site cataloguing update with CAT generator find
+
+---
+
+*Auto-generated by Manus Intelligence Layer | Pull repo to sync locally*
