@@ -136,3 +136,15 @@ Heavy ASSK batch activity today — mix of historical deal closures and new wins
 *Note: 178 total Cenovus deals in HubSpot. Darcy Van Aert (Cenovus) sent a Teams demo invite May 27 — new contact, platform demo requested.*
 
 *Last updated: 2026-05-27*
+
+## Deal Activity Update (2026-05-29)
+
+| Deal | Amount | Stage | Notes |
+|---|---|---|---|
+| Assorted Pipe/Casing — Anthony Schumaker (AK Casing) | $16,000 CAD | Quote Accepted | Jason Jacobson handled — buyer accepted May 28 |
+| Cenovus - 60,000 Gallon Bullets (IH-25856) | ~$120,000 | Negotiation | Aspenleaf at $120K, Cenovus floor $120K — terms TBD |
+| Paramount - Logan Energy - IH-18931 | TBD | Invoice Pending | Invoice just received — Paramount not yet paid |
+
+*Note: HubSpot MCP keyword search returned no new stage changes for May 28–29. Deals above captured from email context.*
+
+*Last updated: 2026-05-29*

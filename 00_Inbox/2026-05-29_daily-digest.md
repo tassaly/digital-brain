@@ -1,0 +1,86 @@
+---
+title: Daily Digest — May 29, 2026
+date: 2026-05-29
+status: active
+tags: [digest, daily, email, hubspot, cenovus, cardinal-energy, delegate-access, affiliate, suncor, paramount, ai-tool, june-10, pipe, commission]
+---
+
+# Daily Digest — May 29, 2026
+
+Linked: [[ironhub-company]] | [[ironhub-ceo]] | [[hubspot-active-deals]] | [[2026-05-27_meeting-management-update-biweekly]] | [[2026-05-27_bsg-engineering-delegate-access]] | [[2026-05-19_ai-enrichment-module]] | [[sales-team-restructure]]
+
+---
+
+## Gemini Meeting Notes
+
+No new Gemini auto-notes detected for May 28–29.
+
+---
+
+## Email Highlights (May 28–29)
+
+### High Priority — Strategic
+
+**Cenovus AI Tool Beta — June 10 Confirmed (May 28)**
+Taylor sent a direct email to Heather (Cenovus) confirming the AI enrichment tool will be ready for beta testing on June 10. Scope: 2–3 users, controlled rollout. This is the critical near-term revenue event flagged in the May 27 management meeting. Linked to [[2026-05-19_ai-enrichment-module]].
+
+**Cardinal Energy — Delegate Access Activated (May 28)**
+Taylor sent a delegate access invitation to Dooshyant at Cardinal Energy, referencing a call the day before. Cardinal Energy is now being onboarded alongside BSG Engineering as a delegate access user — gaining visibility into Cenovus, Suncor, Paramount, and Vermilion inventory. New note created: [[2026-05-28_cardinal-energy-delegate-access]]. Linked to [[2026-05-27_bsg-engineering-delegate-access]].
+
+**BSG Engineering — Delegate Access Resent (May 28)**
+Taylor resent the delegate access invitation to Nèeky at BSG Engineering (the first email bounced). This confirms the BSG relationship is still being actively pursued.
+
+**Commission Agreement Template — Affiliate Program (May 28)**
+Taylor shared a commission agreement template — likely for the US affiliate program discussed in the management meeting. Linked to [[sales-team-restructure]].
+
+**Paramount 2022 Reconciliation — Arie Attached Spreadsheet (May 28)**
+Arie Prins sent Mavis a reconciliation spreadsheet comparing what Paramount recorded vs. what IronHub has in its system. "Very little matches." This is the $27K Paramount liability from 2022 flagged in the May 27 management meeting. Linked to [[2026-05-27_meeting-management-update-biweekly]].
+
+**Paramount Logan Energy Invoice — Not Yet Paid (May 28)**
+Mavis confirmed that the invoice for IH-18931 (Asset 272431 sold to Logan Energy via IronHub) was just received — Paramount has not been paid yet. Rochelle tracking.
+
+### Operations & Sales
+
+**Cenovus — 60,000 Gallon Bullets (IH-25856) — Price Negotiation Active (May 28)**
+Bob Pusch (ALEMAP) forwarded an inquiry from Aspenleaf Energy for one of the 60,000-gallon bullets (1997 vintage). Aspenleaf offered $2.00/gallon and wants Cenovus to disconnect and deliver. Mavis negotiated with Darcy (Cenovus): Darcy's floor is $120K. Mavis tried $80K–$100K. Gap remains. New note created: [[2026-05-28_cenovus-bullets-negotiation]].
+
+**Suncor — MRO Parts Outreach to Shane (May 28)**
+Mavis reached out to Shane (Suncor) with a link to Suncor inventory, pitching the steady flow of MRO/spare parts. Linked to [[ironhub-company]] (MRO expansion strategy).
+
+**Suncor — Mildred Lake/Aurora Cost Arrangement (May 28)**
+Suncor sent an update on the cost arrangement for Mildred Lake/Aurora. Taylor and Mavis are coordinating with Chris Janes and Artem. Ongoing.
+
+**Assorted Pipe — Anthony Schumaker (AK Casing) — Quote Accepted $16,000 (May 28)**
+Anthony Schumaker (AK Casing) accepted a $16,000 CAD quote for assorted pipe/casing. Jason Jacobson handled. Two system notifications confirmed the buyer acceptance.
+
+**IH-55433 — Pipe Package Assorted Casing — Alpine Tubulars (May 28)**
+Mavis confirmed Alpine Tubulars manages the pipe for the operator (third party). Taylor acknowledged. No deal progressing on this item.
+
+**Amplio — Post-Cataloging Follow-Up (May 28)**
+Joe Goble (Amplio) followed up on post-cataloging items with Mavis and Mathieu. Ongoing coordination.
+
+**US Buyers — Customs/Tariff Advice — Resolved (May 28)**
+Megan Unrau (Ramsay Logistics) provided customs/tariff guidance for US buyers. Thread closed.
+
+**PayEvo — Billing Transfer (May 28)**
+PayEvo Support following up on a billing transfer for IronHub (CS-165535-K7R9). Cindy asking if it's been completed.
+
+---
+
+## HubSpot Activity (May 28–29)
+
+HubSpot MCP returned no new deals modified in the last 24 hours via keyword search. The $16,000 AK Casing pipe deal (Anthony Schumaker) is likely in the system but not yet indexed. No stage changes detected.
+
+*Last updated: 2026-05-29*
+
+---
+
+## New Notes Created This Digest
+
+- `2026-05-29_daily-digest.md` (this file)
+- `2026-05-28_cardinal-energy-delegate-access.md` — Cardinal Energy onboarded as delegate access user
+- `2026-05-28_cenovus-bullets-negotiation.md` — 60,000-gallon bullets price negotiation with Aspenleaf (floor $120K, offer $80–100K)
+
+---
+
+*Auto-generated by Manus Intelligence Layer | Pull repo to sync locally*
